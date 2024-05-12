@@ -1,4 +1,4 @@
 # music-stuff
 
-- packs: sound packs / sample packs
-- vsts: effects / generators
+- Packs: sound packs / sample packs
+- VSTs: effects / generators
