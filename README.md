@@ -3,6 +3,10 @@
 ## Ready to cook
 
 Everything is there: https://drive.google.com/drive/u/0/folders/1dB9zEajifB6C_735afQmWVwCMJWC7prB
+- flstudio12 -> FL Studio 12 Crack
+- nexus2 -> Nexus 2 Crack
+- packs -> Audio samples
+- plugins -> .dll plugins files
 
 ## Plugins list
 
