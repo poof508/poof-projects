@@ -12,11 +12,11 @@ Everything is there: https://drive.google.com/drive/u/0/folders/1dB9zEajifB6C_73
 
 ### Instruments
 
+- reFX Nexus ❤️
 - Dexed
 - Nightlife
 - OS-251
 - GMS
-- reFX Nexus
 - Room Piano v3
 - Aeolian Meditation v2
 - Ample Bass P Lite II
@@ -27,23 +27,23 @@ Everything is there: https://drive.google.com/drive/u/0/folders/1dB9zEajifB6C_73
 - Keyzone Classic
 - LABS
 - Lofi Keys 2
-- Love-Fi 2
+- Love-Fi 2 ❤️
 - Love-Fi 3 Lite
 - Mel-Lofi
 - Monique
 - SINE Player
-- Surge XT
+- Surge XT ❤️
 - Vital
-- Serenity
+- Serenity ❤️
 - Serenity 2 Lite
 
 ### Effects
 
 - Cymatics Origin
-- dblue pack:
+- dblue pack ❤️
 - Lost-Tapes
-- ValhallaSupermassive
-- kHs pack:
+- ValhallaSupermassive ❤️
+- kHs pack
 - Vinyl
 - Panflow
 - Surge XT Effects
