@@ -1,6 +1,6 @@
 # Poof projects
 
-## Ready to cook
+## Ready to cook 🥣
 
 Everything is there: https://drive.google.com/drive/u/0/folders/1dB9zEajifB6C_735afQmWVwCMJWC7prB
 - flstudio12 -> FL Studio 12 Crack
@@ -10,7 +10,7 @@ Everything is there: https://drive.google.com/drive/u/0/folders/1dB9zEajifB6C_73
 
 ## Plugins list
 
-### Instruments
+### Instruments 🎹
 
 - reFX Nexus ❤️
 - Dexed
@@ -37,7 +37,7 @@ Everything is there: https://drive.google.com/drive/u/0/folders/1dB9zEajifB6C_73
 - Serenity ❤️
 - Serenity 2 Lite
 
-### Effects
+### Effects ✨
 
 - Cymatics Origin
 - dblue pack ❤️
