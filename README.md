@@ -37,6 +37,7 @@ Everything is there: https://drive.google.com/drive/u/0/folders/1dB9zEajifB6C_73
 - Serenity ❤️
 - Serenity 2 Lite
 - Kontakt 7: https://drive.google.com/file/d/1OWh_G4EuRoNNPjFnpR2s3YJhaUxLW9jH/view?usp=sharing
+- IK Multimedia Pack: https://www.ikmultimedia.com/userarea/my-products/
 
 ### Effects ✨
 
