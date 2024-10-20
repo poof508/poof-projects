@@ -51,6 +51,15 @@ These are bought on https://audiolatry.com/b-account
 
 ### Effects ✨
 
+- Cymatics Origin: https://cymatics.fm/products/origin-vintage-plugin
+- dblue glitch pack ❤️: https://illformed.org/plugins/
+- Lost-Tapes: https://plugins4free.com/plugin/3787/
+- kHs pack: https://kilohearts.com/download
+- Vinyl: https://www.izotope.com/en/products/downloads/vinyl
+- Surge XT Effects: This is downloaded with the Surge XT VST
+- Fazu: https://plugins4free.com/plugin/3351/
+- Fire: https://plugins4free.com/plugin/3678/
+
 These are bought on https://valhalladsp.com/demos-downloads/:
 - ValhallaSupermassive ❤️
 - ValhallaFreqEcho
@@ -66,11 +75,3 @@ These are bought on https://audiomodern.com/:
 - Filterstep
 - Panflow
 
-- Cymatics Origin: https://cymatics.fm/products/origin-vintage-plugin
-- dblue glitch pack ❤️: https://illformed.org/plugins/
-- Lost-Tapes: https://plugins4free.com/plugin/3787/
-- kHs pack: https://kilohearts.com/download
-- Vinyl: https://www.izotope.com/en/products/downloads/vinyl
-- Surge XT Effects: This is downloaded with the Surge XT VST
-- Fazu: https://plugins4free.com/plugin/3351/
-- Fire: https://plugins4free.com/plugin/3678/
