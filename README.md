@@ -61,7 +61,7 @@ These are bought on https://valhalladsp.com/demos-downloads/:
 - ValhallaPlate Demo
 - ValhallaUberMode Demo
 
-These are bought on https://audiomodern.com/
+These are bought on https://audiomodern.com/:
 - Gatelab
 - Filterstep
 - Panflow
